@@ -1,0 +1,5 @@
+[1] Contexte du capteur : exosquelette développé à Rennes
+[2] Caractérisation de la version actuelle du capteur de couple
+[3] Capteur de couple similaire
+[4] Algorithme de suivi d'hystérésis
+[5] Mesure de capacités avec blindage (voir notamment section 6.2)
